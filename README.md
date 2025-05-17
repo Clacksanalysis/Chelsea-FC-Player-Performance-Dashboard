@@ -77,7 +77,7 @@ This dashboard is useful for:
 
 - `Chelsea_Player_Performance.pbix` – Full Power BI file with data model, visuals, and DAX logic
 - `README.md` – Project documentation
-
+- `CFC Dashboard.Pdf` - To see dashboard
 ---
 
 
